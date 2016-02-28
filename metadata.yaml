@@ -1,0 +1,24 @@
+_repo: An-Essay-on-the-History-of-Civil-Society-Eighth-Edition_8646
+creator:
+  author:
+    agent_name: Ferguson, Adam
+    birthdate: 1723
+    deathdate: 1816
+    gutenberg_agent_id: '2831'
+    url: http://www.gutenberg.org/2009/agents/2831
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Ferguson
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization -- History'
+- !lcsh 'Civil society -- History'
+- !lcc 'CB'
+title: An Essay on the History of Civil Society, Eighth Edition
+url: http://www.gutenberg.org/ebooks/8646
