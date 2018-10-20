@@ -288,7 +288,7 @@ powers of apprehension and sentiment could exist where they had not been
 employed, and what would be the defects and imbecilities of a heart in
 which the emotions that arise in society had never been felt.
 
-Mankind are to be taken in groupes, as they, have always subsisted. The
+Mankind are to be taken in groupes, as they have always subsisted. The
 history of the individual is but a detail of the sentiments and the
 thoughts he has entertained in the view of his species: and every
 experiment relative to this subject should be made with entire societies,
@@ -325,7 +325,7 @@ combined their endeavours. We observe the progress they have made; we
 distinctly enumerate many of its steps; we can trace them back to a distant
 antiquity, of which no record remains, nor any monument is preserved, to
 inform us what were the openings of this wonderful scene. The consequence
-is, that instead of attending to the character of our species, were the
+is, that instead of attending to the character of our species, where the
 particulars are vouched by the surest authority, we endeavour to trace it
 through ages and scenes unknown; and, instead of supposing that the
 beginning of our story was nearly of a piece with the sequel, we think
@@ -387,7 +387,7 @@ unable to settle in any. At once obstinate and fickle, he complains of
 innovations, and is never sated with novelty. He is perpetually busied in
 reformations, and is continually wedded to his errors. If he dwells in a
 cave, he would improve it into a cottage; if he has already built, he would
-still build to a greater extent. But he does, not propose to make rapid and
+still build to a greater extent. But he does not propose to make rapid and
 hasty transitions; his steps are progressive and slow; and his force, like
 the power of a spring, silently presses on every resistance; an effect is
 sometimes produced before the cause is perceived; and with all his talent
@@ -405,11 +405,11 @@ choice, their various opinions, and the multiplicity of wants by which they
 are urged: but they enjoy, or endure, with a sensibility, or a phlegm,
 which are nearly the same in every situation. They possess the shores of
 the Caspian, or the Atlantic, by a different tenure, but with equal ease.
-On the one they are fixed to the soil, and seem to be formed for,
+On the one they are fixed to the soil, and seem to be formed for
 settlement, and the accommodation of cities: the names they bestow on a
 nation, and on its territory, are the same. On the other they are mere
 animals of passage, prepared to roam on the face of the earth, and with
-their herds, in search of new pasture and favourable seasons, to fallow the
+their herds, in search of new pasture and favourable seasons, to follow the
 sun in his annual course.
 
 Man finds his lodgment alike in the cave, the cottage, and the palace; and
@@ -438,7 +438,7 @@ answer, it is worse; it is folly and wretchedness. But if nature is only
 opposed to art, in what situation of the human race are the footsteps of
 art unknown? In the condition of the savage, as well as in that of the
 citizen, are many proofs of human invention; and in either is not any
-permanent station, but a mere stage through which this' travelling being is
+permanent station, but a mere stage through which this travelling being is
 destined to pass. If the palace be unnatural, the cottage is so no less;
 and the highest refinements of political and moral apprehension, are not
 more artificial in their kind, than the first operations of sentiment and
@@ -936,51 +936,13 @@ says Kolben, "trespass on each other by thefts of cattle and of women; but
 such injuries are seldom committed, except with a view to exasperate their
 neighbours, and bring them to a war." Such depredations then, are not the
 foundation of a war, but the effects of a hostile intention already
-conceived. The nations of North America, who have no herds to preserve, nor
-settlements to defend, are yet engaged in almost perpetual wars, for which
-they can assign no reason, but the point of honour, and a desire to
-continue the struggle their fathers maintained. They do not regard the
-spoils of an enemy; and the warrior who has seized any booty, easily parts
-with it to the first person who comes in his way. [Footnote: See
+conceived. The nations of North America, who have no herds to preserve,
+nor settlements to defend, are yet engaged in almost perpetual wars, for
+which they can assign no reason, but the point of honour, and a desire
+to continue the struggle their fathers maintained. They do not regard
+the spoils of an enemy; and the warrior who has seized any booty, easily
+parts with it to the first person who comes in his way. [Footnote: See
 Charlevoix's History of Canada.]
-
-But we need not cross the Atlantic to find proofs of animosity, and to
-observe, in the collision of separate societies, the influence of angry
-passions, that do not arise from an opposition of interest. Human nature
-has no part of its character of which more flagrant examples are given on
-this side of the globe. What is it that stirs in the breasts of ordinary
-men when the enemies of their country are named? Whence are the prejudices
-that subsist between different provinces, cantons, and villages, of the
-same empire and territory? What is it that excites one half of the nations
-of Europe against the other? The statesman may explain his conduct on
-motives of national jealousy and caution, but the people have dislikes and
-antipathies, for which they cannot account. Their mutual reproaches of
-perfidy and injustice, like the Hottentot depredations, are but symptoms of
-an animosity, and the language of a hostile disposition, already conceived.
-The charge of cowardice and pusillanimity, qualities which the interested
-and cautious enemy should, of all others, like best to find in his rival,
-is urged with aversion, and made the ground of dislike. Hear the peasants
-on different sides of the Alps, and the Pyrenees, the Rhine, or the British
-channel, give vent to their prejudices, and national passions; it is among
-them that we find the materials of war and dissention laid without the
-direction of government, and sparks ready to kindle into a flame, which the
-statesman is frequently disposed to extinguish. The fire will not always
-catch where his reasons of state would direct, nor stop where the
-concurrence of interest has produced an alliance. "My father," said a
-Spanish peasant, "would rise from his grave, if he could foresee a war with
-France." What interest had he, or the bones of his father, in the quarrels
-of princes?
-
-These observations seem to arraign our species, and to give an unfavourable
-picture of mankind; and yet the particulars we have mentioned are
-consistent with the most amiable qualities of our nature, and often furnish
-a scene North America, who have no herds to preserve, nor settlements to
-defend, are yet engaged in almost perpetual wars, for which they can assign
-no reason, but the point of honour, and a desire to continue the struggle
-their fathers maintained. They do not regard the spoils of an enemy; and
-the warrior who has seized any booty, easily parts with it to the first
-person who comes in his way. [Footnote: See Charlevoix's History of
-Canada.]
 
 But we need not cross the Atlantic to find proofs of animosity, and to
 observe, in the collision of separate societies, the influence of angry
@@ -1060,7 +1022,7 @@ of a liberal spirit; and in the very effects which we regret, is but one
 distemper more, by which the Author of nature has appointed our exit from
 human life.
 
-These reflections may open, our view into the state of mankind; but they
+These reflections may open our view into the state of mankind; but they
 tend to reconcile us to the conduct of Providence, rather than to make us
 change our own; where, from a regard to the welfare of our fellow
 creatures, we endeavour to pacify their animosities, and unite them by the
@@ -1411,7 +1373,7 @@ sentiment of favour with which that notion is entertained in the mind. If
 it be true, that men are united by instinct, that they act in society from
 affections of kindness and friendship; if it be true, that even prior to
 acquaintance and habitude, men, as such, are commonly to each other objects
-of attention, and some degree of regard; that while their, prosperity is
+of attention, and some degree of regard; that while their prosperity is
 beheld with indifference, their afflictions are considered with
 commiseration; if calamities be measured by the numbers and the qualities
 of men they involve; and if every suffering of a fellow creature draws a
@@ -1522,7 +1484,7 @@ and kindness.
 
 Hence the rule by which men commonly judge of external actions, is taken
 from the supposed influence of such actions on the general good. To abstain
-from harm, is the great law f natural justice; to diffuse happiness, is the
+from harm, is the great law of natural justice; to diffuse happiness, is the
 law of morality; and when we censure the conferring a favour on one or a
 few at the expense of many, we refer to public utility, as the great object
 at which the actions of men should be aimed.
@@ -1598,7 +1560,7 @@ tasted the blood of his prey, cannot descend to pursuits that leave its
 talents and its force unemployed.
 
 Proper occasions alone operating on a raised and a happy disposition, may
-produce this admirable effect, whilst mere instruction may, always find
+produce this admirable effect, whilst mere instruction may always find
 mankind at a loss to comprehend its meaning, or insensible to its dictates.
 The case, however, is not desperate, till we have formed our system of
 politics, as well as manners; till we have sold our freedom for titles,
@@ -1714,7 +1676,7 @@ distress, is but a melancholy spectacle.
 
 The difficulties and hardships of human life are supposed to detract from
 the goodness of God; yet many of the pastimes men devise for themselves are
-fraught with difficulty and danger The great inventor of the game of human
+fraught with difficulty and danger. The great inventor of the game of human
 life, knew well how to accommodate the players. The chances are matter of
 complaint; but if these were removed, the game itself would no longer amuse
 the parties. In devising, or in executing a plan, in being carried on the
@@ -1773,7 +1735,7 @@ seem most to enjoy themselves when placed in the midst of difficulties, and
 obliged to employ the powers they possess.
 
 Spinola being told, that Sir Francis Vere died of having nothing to do,
-said, "That was enough, to kill a general." [Footnote: Life of Lord
+said, "That was enough to kill a general." [Footnote: Life of Lord
 Herbert.] How many are there to whom war itself is a pastime, who choose
 the life of a soldier, exposed to dangers and continued fatigues; of a
 mariner, in conflict with every hardship, and bereft of every conveniency;
@@ -1788,13 +1750,13 @@ of their labour has ceased.
 What was enjoyment, in the sense of that youth, who, according to Tacitus,
 loved danger itself, not the rewards of courage? What is the prospect of
 pleasure, when the sound of the horn or the trumpet, the cry of the dogs,
-'or the shout of war, awaken the ardour of the sportsman and the soldier?
+or the shout of war, awaken the ardour of the sportsman and the soldier?
 The most animating occasions of human life, are calls to danger and
-hardship, not invitations to safety and case: and man himself, in his
+hardship, not invitations to safety and ease: and man himself, in his
 excellence, is not an animal of pleasure, nor destined merely to enjoy what
-the elements bring to his use; but like his associates the dog and the
+the elements bring to his use; but like his associates, the dog and the
 horse, to follow the exercises of his nature, in preference to what are
-called its enjoyments; to pine in the lap of case, and of affluence, and to
+called its enjoyments; to pine in the lap of ease and of affluence, and to
 exult in the midst of alarms that seem to threaten his being, in all which,
 his disposition to action only keeps pace with the variety of powers with
 which he is furnished; and the most respectable attributes of his nature,
@@ -1889,7 +1851,7 @@ Porsenna. The savage inures his body to the torture, that in the hour of
 trial he may exult over his enemy. Even the Mussulman tears his flesh to
 win the heart of his mistress, and comes in gaiety streaming with blood, to
 shew that he deserves her esteem. [Footnote: Letters of the Right
-Honourable Lady M----y W------ M-------e.]
+Honourable Lady Mary Wortley Montagu.]
 
 Some nations carry the practice of inflicting, or of sporting with pain, to
 a degree that is either cruel or absurd; others regard every prospect of
@@ -2077,7 +2039,7 @@ selfish desire, it is thought, brings advantage or pleasure to ourselves;
 that of benevolence terminates in the pleasure or advantage of others:
 whereas, in reality, the gratification of every desire is a personal
 enjoyment, and its value being proportioned to the particular quality or
-force of the sentiment, it may happen that the same, person may reap a
+force of the sentiment, it may happen that the same person may reap a
 greater advantage from the good fortune he has procured to another, than
 from that he has obtained for himself.
 
@@ -2095,8 +2057,8 @@ enjoyment, obtained in relieving our object. Even extremes in this class of
 our dispositions, as they are the reverse of hatred, envy, and malice, so
 they are never attended with those excruciating anxieties, jealousies, and
 fears, which tear the interested mind; or if, in reality, any ill passion
-arise from a pretended attachment to, our fellow creatures, that attachment
-may, be safely condemned, as not genuine. If we be distrustful or jealous,
+arise from a pretended attachment to our fellow creatures, that attachment
+may be safely condemned, as not genuine. If we be distrustful or jealous,
 our pretended affection is probably no more than a desire of attention and
 personal consideration; a motive which frequently inclines us to be
 connected with our fellow creatures; but to which we are as frequently
@@ -2588,7 +2550,7 @@ with which they are menaced.
 
 The most perfect equality of rights can never exclude the ascendant of
 superior minds, nor the assemblies of a collective body govern without the
-direction of select councils. On this as count, popular government may be
+direction of select councils. On this as account, popular government may be
 confounded with aristocracy. But this alone does not constitute the
 character of aristocratical government. Here the members of the state are
 divided, at least, into two classes; of which one is destined to command,
@@ -2600,7 +2562,7 @@ yield the pre-eminence. He occupies the station of patron or client, and is
 either the sovereign or the subject of his country. The whole citizens may
 unite in executing the plans of state, but never in deliberating on its
 measures, or enacting its laws. What belongs to the whole people under
-democracy, is here confined to a part. Members of the superior order are
+democracy, is here confined to a part. Members of the superior order, are
 among themselves, possibly, classed according to their abilities, but
 retain a perpetual ascendant over those of inferior station. They are at
 once the servants and the masters of the state, and pay, with their
@@ -2773,7 +2735,7 @@ every barrier of order, and restraint of law.
 If we suppose that the equality established among the subjects of a
 despotic state has inspired its members with confidence, intrepidity, and
 the love of justice; the despotic prince, having ceased to be an object of
-fear, must, sink among the crowd. If, on the contrary, the personal
+fear, must sink among the crowd. If, on the contrary, the personal
 equality which is enjoyed by the members of a democratical state, should be
 valued merely as an equal pretension to the objects of avarice and
 ambition, the monarch may start up anew, and be supported by those who mean
@@ -2894,7 +2856,7 @@ vain, without the distinctions of title and fortune? and that his principal
 care would be to adorn his person, and to find an amusement? Even if it
 could be supposed that he would thus share in our vices, and, in the midst
 of his forest, vie with the follies which are practised in the town; yet no
-one would be, so bold as to affirm, that he would likewise, in any
+one would be so bold as to affirm, that he would likewise, in any
 instance, excel us in talents and virtues; that he would have a
 penetration, a force of imagination and elocution, an ardour of mind, an
 affection and courage, which the arts, the discipline, and the policy of
@@ -2976,7 +2938,7 @@ that were brought from abroad. The Romans, from whom our accounts are
 chiefly derived, have admitted, in the rudeness of their own ancestors, a
 system of virtues, which all simple nations perhaps equally possess; a
 contempt of riches; love of their country, patience of hardship, danger,
-and fatigue. They have, notwithstanding vilified, our ancestors for having
+and fatigue. They have, notwithstanding, vilified our ancestors for having
 resembled their own; at least, in the defect of their arts, and in the
 neglect of conveniencies which those arts are employed to procure.
 
@@ -3094,12 +3056,12 @@ Of the nations who dwell in those, or any other of the less cultivated
 parts of the earth, some entrust their subsistence chiefly to hunting,
 fishing, or the natural produce of the soil. They have little attention to
 property, and scarcely any beginnings of subordination or government.
-Others, having possessed themselves of herbs, and depending for their
+Others, having possessed themselves of herds, and depending for their
 provision on pasture, know what it is to be poor and rich. They know the
 relations of patron and client, of servant and master, and by the measures
 of fortune determine their station. This distinction must create a material
 difference of character, and may furnish two separate heads, under which to
-consider the history, of mankind in their rudest state; that of the savage,
+consider the history of mankind in their rudest state; that of the savage,
 who is not yet acquainted with property; and that of the barbarian, to whom
 it is, although not ascertained by laws, a principal object of care and
 desire.
@@ -3217,7 +3179,7 @@ distinguished only by the attention with which his counsel is heard; the
 warrior by the confidence with which the youth of his nation follow him
 to the field; and if their concerts must be supposed to constitute a
 species of political government, it is one to which no language of ours
-can be applied. Power is more than the natural ascendancy of the mind;
+can be applied. Power is no more than the natural ascendancy of the mind;
 the discharge of office no more than a natural exercise of the personal
 character; and while the community acts with an appearance of order,
 there is no sense of disparity in the breast of any of its members.
@@ -3268,7 +3230,7 @@ reason, they conducted themselves with the concert and the force of
 nations. Foreigners, without being able to discover who is the magistrate,
 or in what manner the senate is composed, always find a council with whom
 they may treat, or a band of warriors with whom they may fight. Without
-police or compulsory, laws, their domestic society is conducted with order,
+police or compulsory laws, their domestic society is conducted with order,
 and the absence of vicious dispositions, is a better security than any
 public establishment for the suppression of crimes.
 
@@ -3413,7 +3375,7 @@ military and political conduct.
 
 Confidence in the effect of charms is not peculiar to any age or nation.
 Few, even of the accomplished Greeks and Romans, were able to shake off
-this weakness. In their case, it, was not removed by the highest measures
+this weakness. In their case, it was not removed by the highest measures
 of civilization. It has yielded only to the light of true religion, or to
 the study of nature, by which we are led to substitute a wise providence
 operating by physical causes, in the place of phantoms that terrify or
@@ -3739,7 +3701,7 @@ persuasion, perhaps, could make them adopt this measure, or give them any
 sense of its use.
 
 Even after nations have chosen a military leader, they do not entrust him
-with any species of civil authority. The captain among the, Caribbees did
+with any species of civil authority. The captain among the Caribbees did
 not pretend to decide in domestic disputes; the terms _jurisdiction_
 and _government_ were unknown in their tongue. [Footnote: History of
 the Caribbees.]
@@ -3960,7 +3922,7 @@ government; you are forbid to carry arms in your own defence; you suffer
 from the remissness and ill conduct of those who are appointed to protect
 you; the evils of peace are even worse than those of war; no punishment is
 ever inflicted on the powerful or the rich; no mercy is shown to the poor;
-although your institutions Footnote: were wisely devised, yet, in the
+although your institutions were wisely devised, yet, in the
 management of corrupted men, their effects are pernicious and cruel."
 _Excerpta de legationibus._] In the interval of occasional outrages,
 the friendly intercourse of men, even in their rudest condition, is
@@ -4287,8 +4249,8 @@ and the vine.
 
 These diversities of natural genius, if real, must have great part of their
 foundation in the animal frame; and it has been often observed, that the
-vine flourishes, where, to quicken the ferments of the human blood, it
-saids [sic] are the least required. While spirituous liquors are, among
+vine flourishes, where, to quicken the ferments of the human blood, its
+aids are the least required. While spirituous liquors are, among
 southern nations, from a sense of their ruinous effects, prohibited; or
 from a love of decency, and the possession of a temperament sufficiently
 warm, not greatly desired; they carry in the north a peculiar charm, while
@@ -4485,7 +4447,7 @@ easy accessions to every new empire among themselves, or to the Chinese and
 the Muscovite, with whom they hold a traffic for the means of subsistence,
 and the materials of pleasure.
 
-Where a happy system of nations is formed, they do hot rely for the
+Where a happy system of nations is formed, they do not rely for the
 continuance of their separate names, and for that of their political
 independence, on the barriers erected by nature. Mutual jealousies lead to
 the maintenance of a balance of power; and this principle, more than the
@@ -4661,7 +4623,7 @@ bethinks him of what he may gain or lose for himself: the leader is
 disposed to enlarge the advantages which belong to his station; the
 follower becomes jealous of rights which are open to encroachment; and
 parties who united before, from affection and habit, or from a regard to
-their common preservation, disagree in supporting their, several claims to
+their common preservation, disagree in supporting their several claims to
 precedence or profit.
 
 When the animosities of faction are thus awakened at home, and the
@@ -4793,7 +4755,7 @@ they have no aids at their call, by which they can bridle the refractory
 humours of a people who resist their pretensions. Theseus, king of Attica,
 we are told, assembled the inhabitants of its twelve cantons into one city.
 In this he took an effectual method to unite into one democracy, what were
-before the separate members of his monarchy, and to hasten the downfal of
+before the separate members of his monarchy, and to hasten the downfall of
 the regal power.
 
 The monarch of an extensive territory has many advantages in maintaining
@@ -4948,7 +4910,7 @@ consists; and observe that concurrence or opposition of interests, which
 serve to unite or to separate different orders of men, and lead them, by
 maintaining their several claims, to establish a variety of political
 forms. The smallest republics, however, consist of parts similar to these,
-and of members who are actuated by, a similar spirit. They furnish examples
+and of members who are actuated by a similar spirit. They furnish examples
 of government diversified by the casual combinations of parties, and by the
 different advantages with which those parties engage in the conflict.
 
@@ -4963,7 +4925,7 @@ gives the state its tone, and fixes its character.
 
 The plebeian order at Rome having been long considered as of an inferior
 condition, and excluded from the higher offices of magistracy, had
-sufficient force, as a body, to get, this invidious distinction removed;
+sufficient force, as a body, to get this invidious distinction removed;
 but the individual still acting under the impressions of a subordinate
 rank, gave in every competition his suffrage to a patrician, whose
 protection he had experienced; and whose personal authority he felt. By
@@ -5066,7 +5028,7 @@ state, in proportion as their constitution admits them to share in the
 government, and summons up their attention to objects of a public nature. A
 people are cultivated or unimproved in their talents, in proportion as
 those talents are employed in the practice of arts, and in the affairs of
-society they are improved or corrupted in their manners, in proportion as
+society: they are improved or corrupted in their manners, in proportion as
 they are encouraged and directed to act on the maxims of freedom and
 justice, or as they as they are degraded into a state of meanness and
 servitude. But whatever advantages are obtained, or whatever evils are
@@ -5075,7 +5037,7 @@ considered as mere occasional incidents: they are seldom admitted among the
 objects of policy, or entered among the reasons of state.
 
 We hazard being treated with ridicule, when we require political
-establishments, merely to cultivate the talents of men, and to inspire then
+establishments, merely to cultivate the talents of men, and to inspire the
 sentiments of a liberal mind: we must offer some motive of interest, or
 some hopes of external advantage, to animate the pursuits, or to direct the
 measures, of ordinary men. They would be brave, ingenious, and eloquent,
@@ -5129,7 +5091,7 @@ an enemy. The practice of the Romans in admitting the vanquished to share
 in the privileges of their city, the rape of the Sabines, and the
 subsequent coalition with that people, were not singular or uncommon
 examples in the history of mankind. The same policy has been followed, and
-was natural and obvious wherever the strength of it state consisted in the
+was natural and obvious wherever the strength of a state consisted in the
 arms of a few, and where men were valued in themselves, without regard to
 estate or fortune.
 
@@ -5167,11 +5129,12 @@ child. [Footnote: Collection of Dutch Voyages.]
 
 In China the permission given to parents to kill or to expose their
 children, was probably meant as a relief from the burden of a numerous
-offspring. But notwithstanding what we hear of a practice so repugnant to
-the human heart, it has not, probably, the effects in restraining; which it
-seems to threaten; but, like many other institutions, has an influence the
-reverse of what it seemed to portend. The parents marry with this means of
-relief in their view, and the children are saved.
+offspring. But notwithstanding what we hear of a practice so repugnant
+to the human heart, it has not, probably, the effects in restraining
+population; which it seems to threaten; but, like many other
+institutions, has an influence the reverse of what it seemed to portend.
+The parents marry with this means of relief in their view, and the
+children are saved.
 
 However important the object of population may be held by mankind, it will
 be difficult to find, in the history of civil policy, any wise or effectual
@@ -5188,7 +5151,7 @@ numbers.
 It is, in the mean time, of importance to know, that where a people are
 fortunate in their political establishments, and successful in the pursuits
 of industry, their population is likely to grow in proportion. Most of the
-other devices thought of for this purpose, only serve to frustrate, the
+other devices thought of for this purpose, only serve to frustrate the
 expectations of mankind or to mislead their attention.
 
 In planting a colony, in striving to repair the occasional wastes of
@@ -5697,7 +5660,7 @@ SECTION VI
 OF CIVIL LIBERTY
 
 
-If war, either for depredation or, defence, were the principal object of
+If war, either for depredation or defence, were the principal object of
 nations, every tribe would, from its earliest state, aim at the condition
 of a Tartar horde; and in all its successes would hasten to the grandeur of
 a Tartar empire. The military leader would supersede the civil magistrate;
